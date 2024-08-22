@@ -185,6 +185,8 @@ Layer需要 .NET环境支持
 
 <figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
+### 2、Layer子域名挖掘机工具的使用
+
 在域名右侧的文本框输入想要搜索的域名，比如ke.qq.com
 
 如果要使用自定义字典，请把字典文件命名为dic.txt，放到跟程序同目录下，程序会自动加载字典。
